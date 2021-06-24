@@ -1,14 +1,14 @@
-## Eyes exercise
+# Eyes exercise
 Eyes created and styled with CSS. Then with JavaScript, you can track the mouse position through the window.
 <img src= "eyes-exercise.png" width='300'/>
 
-# How to Run
+## How to Run
 This project doesn't need any further setup.
 
-# Roadmap of future improvements
+## Roadmap of future improvements
 I would like to use this for an interactive website, also using multiples objects (eyes) or some other shape will also be interesting.
 
-### License Information
+# License Information
 MIT License
 
 Copyright (c) 2020 John Williams
